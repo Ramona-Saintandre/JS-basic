@@ -35,11 +35,11 @@
          * write one variable that prints 3 different numbers
          */
 
-let numString = 49;
-numString = 15;
-numString = 45;
+let numString1 = 49;
+numString2 = 15;
+numString3 = 45;
 // print out the first number
 
-console.log('first number',numString);
-console.log('second number',numString);
-console.log('third number',numString);
+console.log('first number',numString1);
+console.log('second number',numString2);
+console.log('third number',numString3);
