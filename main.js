@@ -35,11 +35,12 @@
          * write one variable that prints 3 different numbers
          */
 
-let numString1 = 49;
-numString2 = 15;
-numString3 = 45;
-// print out the first number
+// let numString1 = 49;
+// numString2 = 15;
+// numString3 = 45;
+// // print out the first number
 
-console.log('first number',numString1);
-console.log('second number',numString2);
-console.log('third number',numString3);
+// console.log('first number',numString1);
+// console.log('second number',numString2);
+// console.log('third number',numString3);
+
